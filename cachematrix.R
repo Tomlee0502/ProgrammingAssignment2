@@ -31,4 +31,3 @@ cacheinverse <- function(x, ...) {
   inv
 }
 
-lol
